@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KonstantinosVoulgaris
 - 👀 I’m interested in Data Analysis and Computer Programming.
-- 🌱 I’m currently learning Data Analysis with Python, Lybraries, SQL, and more!
+- 🌱 I’m currently learning Data Analysis with Python, Libraries, SQL, and more!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? kos.voulg@gmail.com
 - 😄 Pronouns: ...
